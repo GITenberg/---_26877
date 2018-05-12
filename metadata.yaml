@@ -1,0 +1,40 @@
+_repo: '---_26877'
+_version: 0.1.0
+alternative_title: Zhen Zhu Bo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yuanhuyanshuisanren, active 17th century-18th century
+    aliases:
+    - Tsui-li-yen-shui-san-jen
+    - Hsu, Chen
+    - 鸳湖烟水散人
+    - Ku-wu-yen-shui-san-jen
+    - Zuiliyanshuisanren
+    - Xu, Qiutao
+    - Yuan-hu-yen-shui-san-jen
+    - Yüan-hu-yen-shui-san-jen
+    - Nanhuyanshuisanren
+    - Xu, Zhen
+    - Yanshuisanren
+    - 鴛湖煙水散人
+    - Hsü, Chen
+    - Guwuyanshuisanren
+    gutenberg_agent_id: '32292'
+    url: http://www.gutenberg.org/2009/agents/32292
+description: ''
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26877'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 珍珠舶
+url: http://www.gutenberg.org/ebooks/26877
